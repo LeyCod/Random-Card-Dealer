@@ -10,7 +10,7 @@ Create an algorithm that randomly builds a card on every refresh:
 
 -   The card value must be one of the following: 1 to 10, King, Queen, Jack or Ace, (no joker).
 
-![preview]()
+![preview](https://github.com/LeyCod/Random-Card-Dealer/blob/main/src/assets/img/RandomCardDealerPreview.png)
 
 ### Fundamentals
 
